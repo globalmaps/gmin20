@@ -9,7 +9,7 @@ Credit: "Global Map of India © ISCGM/Survey of India"
 
 Contact: Survey of India.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/india.png)
+E-mail: ![email](email.png)
 
 URL: www.surveyofindia.gov.in
 
